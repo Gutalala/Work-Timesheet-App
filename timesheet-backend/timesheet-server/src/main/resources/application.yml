@@ -20,6 +20,6 @@ eureka:
 
 amazonProperties:
   endpointUrl: https://s3.us-east-2.amazonaws.com
-  accessKey: AKIAYCPUJFTJDYUHFXHQ
-  secretKey: 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
-  bucketName: beaconfire-group6-avatars
+  accessKey: 
+  secretKey:
+  bucketName:
