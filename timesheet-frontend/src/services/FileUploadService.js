@@ -1,10 +1,10 @@
 // import  S3FileUpload  from 'react-s3';
 
 
-// const S3_BUCKET ='beaconfire-group6-personaldocuments';
+// const S3_BUCKET ='';
 // const REGION ='us-east-2';
-// const ACCESS_KEY ='AKIAYCPUJFTJO62ABYOI';
-// const SECRET_ACCESS_KEY ='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';
+// const ACCESS_KEY ='';
+// const SECRET_ACCESS_KEY ='';
 
 // const config = {
 //     bucketName: S3_BUCKET,
