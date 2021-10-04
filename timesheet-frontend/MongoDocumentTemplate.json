@@ -1,0 +1,137 @@
+{
+    "template":  [{
+            "day": "Sunday",
+            "date":"2021-02-14T07:00:00.000Z",
+            "startingTime":"2021-02-14T07:00:00.000Z",
+            "endingTime":"2021-02-14T17:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Monday",
+            "date":"2021-02-15T07:00:00.000Z",
+            "startingTime":"2021-02-15T07:00:00.000Z",
+            "endingTime":"2021-02-15T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Tuesday",
+            "date":"2021-02-16T07:00:00.000Z",
+            "startingTime":"2021-02-16T07:00:00.000Z",
+            "endingTime":"2021-02-16T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Wednesday",
+            "date":"2021-02-17T07:00:00.000Z",
+            "startingTime":"2021-02-17T07:00:00.000Z",
+            "endingTime":"2021-02-17T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Thursday",
+            "date":"2021-02-18T07:00:00.000Z",
+            "startingTime":"2021-02-18T07:00:00.000Z",
+            "endingTime":"2021-02-18T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Friday",
+            "date":"2021-02-19T07:00:00.000Z",
+            "startingTime":"2021-02-19T07:00:00.000Z",
+            "endingTime":"2021-02-19T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Saturday",
+            "date":"2021-02-20T07:00:00.000Z",
+            "startingTime":"2021-02-20T07:00:00.000Z",
+            "endingTime":"2021-02-20T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }],
+    "weeklyTimesheets": [{
+        "weekEnding":"2021-02-20T07:00:00.000Z",
+        "totalCompensatedHours": 0,
+        "totalBillingHours": 0,
+        "submissionStatus": "",
+        "approvedStatus": "",
+        "floatingDayUsed": 0,
+        "vacationDayUsed": 0,
+        "holidayUsed": 0,
+        "document": {
+            "type": "",
+            "url": "",
+            "title": "",
+            "uploadedBy": "",
+            "uploadedTime": "2021-08-07T07:00:00.000Z"
+        },
+        "dailyTimesheets": [{
+            "day": "Sunday",
+            "date":"2021-02-14T07:00:00.000Z",
+            "startingTime":"2021-02-14T07:00:00.000Z",
+            "endingTime":"2021-02-14T17:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Monday",
+            "date":"2021-02-15T07:00:00.000Z",
+            "startingTime":"2021-02-15T07:00:00.000Z",
+            "endingTime":"2021-02-15T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Tuesday",
+            "date":"2021-02-16T07:00:00.000Z",
+            "startingTime":"2021-02-16T07:00:00.000Z",
+            "endingTime":"2021-02-16T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Wednesday",
+            "date":"2021-02-17T07:00:00.000Z",
+            "startingTime":"2021-02-17T07:00:00.000Z",
+            "endingTime":"2021-02-17T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Thursday",
+            "date":"2021-02-18T07:00:00.000Z",
+            "startingTime":"2021-02-18T07:00:00.000Z",
+            "endingTime":"2021-02-18T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Friday",
+            "date":"2021-02-19T07:00:00.000Z",
+            "startingTime":"2021-02-19T07:00:00.000Z",
+            "endingTime":"2021-02-19T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }, {
+            "day": "Saturday",
+            "date":"2021-02-20T07:00:00.000Z",
+            "startingTime":"2021-02-20T07:00:00.000Z",
+            "endingTime":"2021-02-20T07:00:00.000Z",
+            "isFloatingDay": false,
+            "isHoliday": false,
+            "isVacation": false
+        }]
+    }],
+    "profile_id": {
+        "$ref": "profile",
+        "$id": "61101603d0ca8600cd04d961"
+    }
+}

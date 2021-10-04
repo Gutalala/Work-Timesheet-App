@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: summary-server
+
+server:
+  port: 12000
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    shutdown:
+      enabled: true
+    health:
+      enabled: true
+  context-path: /actuator

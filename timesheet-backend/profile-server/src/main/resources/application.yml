@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: profile-server
+
+  data:
+    mongodb:
+      uri: mongodb+srv://root:LXF1215@cluster0.cma0f.mongodb.net/demoDB?retryWrites=true&w=majority
+
+server:
+  port: 11000
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIAYCPUJFTJDYUHFXHQ
+  secretKey: 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
+  bucketName: beaconfire-group6-avatars
